@@ -20,7 +20,7 @@ resources :
 
   #Required
 
-  - repository : azureSharedTemplates
+  - repository : mslearn-tailspin-spacegame-web
 
     type : github
 
