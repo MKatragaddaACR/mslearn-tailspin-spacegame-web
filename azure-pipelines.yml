@@ -20,13 +20,13 @@ resources :
 
   #Required
 
-  - repository : mslearn-tailspin-spacegame-web
+  - repository : azureSharedTemplates
 
     type : github
 
-    endpoint : Test
+    endpoint : MKatragaddaACR
 
-    name : MKatragaddaACR/mslearn-tailspin-spacegame-web
+    name : ILiuACR/shared-azure-pipeline-templates
 
     branch : master
 
